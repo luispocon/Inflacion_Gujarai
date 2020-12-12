@@ -1,0 +1,2 @@
+# Inflacion_Gujarai
+Inflación_tabla_1.3_libro_econometría
